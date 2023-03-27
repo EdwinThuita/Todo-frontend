@@ -1,38 +1,83 @@
-# To Do List App ReactJS V2
+## Todo app
 
-To Do List App in ReactJS by WebStylePress. V2 refactored and improved. Functions for adding, editing, toggling and deleting were improved.
+- An application that helps people to arrange their tasks in a way that they can manage to do tasks.
 
-## How to Use
+### Getting Started
 
-Clone or download repo
-NodeJS / NPM / Yarn should be installed in your PC
+- In order for you to use on either of the following;(windows &, Linux,Ubuntu)
+- nodejs 9.0+
 
-Open terminal or Git for Windows (Git Bash)
-Run these commands:
+### Features
 
-### Install Dependencies
+- Displaying a list of all the todos on my ToDo component.
 
-yarn install
+### Edit A Todo
 
-OR
+-This is achieved by clicking on the edit button that allows a person to edit the previous todo that they had made.Once you click on save after editing the new changes get saved.
 
-npm install
+## Add Todo
 
-### Run app
+- An input modal popup appears immediately when you click on the create new task button that allows a user to create a new todo by providing them with an unout field that has title and description text area.
+- Each and every todo are added and displayed on different cards.
 
-yarn start
+### Login
 
-OR
+Click on the login button a dummy login it will redirect the user to a page with a dummy login form for the user to fill. 
 
-npm start
+### Development And Installation
 
-### YouTube Tutorial URL
+## Requirements
 
-Title: React To Do List App (v2) | Refactored & Improved | Learn React JS | Do More with Less Code
+In order for you to use the content on this repo ensure you have the following:
 
-https://youtu.be/E2CWxv5hOso
+- A computer that runs on either of the following; (Windows 7+, Linux, Mac OS).
+- nodejs 9.0+
+- Visual Studio Code.
 
-Old Code (https://github.com/webstylepress/to-do-list-app-react-wsp)
+## Alternative one
 
-Old Video (https://youtu.be/TmDNBEdHzVs)
-# ToDo-App
+- Open a terminal / command line interface on your computer.
+
+- Clone the repo by using the following to create a copy on your local
+
+  git@github.com:https://github.com/EdwinThuita/Todo-frontend
+
+- change directory to the repo folder:
+
+  cd Todo-app-frontend
+
+  cd todo
+
+- Open in `Visual Studio Code`
+
+  code .
+
+### Alternative Two
+
+-On the top right corner of this page there is a button labelled Fork.
+
+- Click on that button to fork the repo to your own account.
+
+- Take on the process in Alternative One above.
+
+- Remember to replace your username when cloning
+
+### Running the appplication
+- To run the application, you can use the following steps to run the app
+
+- Run `npm install` to install all the dependencies.
+        npm install
+
+-Run `npm run start` to open the application on your browser
+
+    npm start
+
+### Author
+This project was contributed by:
+
+- Edwin Maina
+
+### License
+
+MIT License
+
